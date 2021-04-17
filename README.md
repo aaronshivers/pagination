@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Pagination with React Hooks and Material-UI
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+An example of how to create a pagination hook for React.
 
 ## Available Scripts
 
